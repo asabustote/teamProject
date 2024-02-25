@@ -1,0 +1,3 @@
+CREATE DATABASE fmt;
+
+--  DROP DATABASE fmt; 
